@@ -1,0 +1,9 @@
+{
+    "name": "codelab7/laravel-logger",
+    "autoload": {
+        "psr-4": {
+            "Codelab7\\LaravelLogger\\": "src/"
+        }
+    },
+    "require": {}
+}
